@@ -56,8 +56,7 @@
       "description": "Get your credentials from https://da.gd/so63O",
       "required": false
     }
-  },
-  }],
+  }
   "buildpacks": [{
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   }, {
